@@ -1,0 +1,22 @@
+{
+  "name": "connectedrudolph",
+  "version": "1.0.0",
+  "description": "quick Phidget sensor based Rudolph The Red Nosed Reindeer",
+  "main": "runRudolph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradybknight/connectedRudolph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gradybknight/connectedRudolph/issues"
+  },
+  "homepage": "https://github.com/gradybknight/connectedRudolph#readme",
+  "dependencies": {
+    "phidget22": "^2.0.8"
+  }
+}
